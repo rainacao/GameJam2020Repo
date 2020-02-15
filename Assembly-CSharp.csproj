@@ -69,6 +69,7 @@
     <Compile Include="Assets\legControl.cs" />
     <Compile Include="Assets\rightLegControl.cs" />
     <Compile Include="Assets\rightLowerLeg.cs" />
+    <Compile Include="Assets\testController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/mlfro/Desktop/GameJam/GameJamProj/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
