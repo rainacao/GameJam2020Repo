@@ -55,14 +55,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\body.cs" />
-     <Compile Include="Assets\camera.cs" />
-     <Compile Include="Assets\leftLowerLeg.cs" />
-     <Compile Include="Assets\legControl.cs" />
+     <Compile Include="Assets\Scripts\body.cs" />
+     <Compile Include="Assets\Scripts\camera.cs" />
+     <Compile Include="Assets\Scripts\leftLowerArm.cs" />
+     <Compile Include="Assets\Scripts\leftLowerLeg.cs" />
+     <Compile Include="Assets\Scripts\leftUpperArm.cs" />
+     <Compile Include="Assets\Scripts\legControl.cs" />
+     <Compile Include="Assets\Scripts\rightLegControl.cs" />
+     <Compile Include="Assets\Scripts\rightLowerArm.cs" />
+     <Compile Include="Assets\Scripts\rightLowerLeg.cs" />
+     <Compile Include="Assets\Scripts\rightUpperArm.cs" />
+     <Compile Include="Assets\Scripts\testController.cs" />
      <Compile Include="Assets\moveObs.cs" />
-     <Compile Include="Assets\rightLegControl.cs" />
-     <Compile Include="Assets\rightLowerLeg.cs" />
-     <Compile Include="Assets\testController.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/imytc/OneDrive/Documents/GitHub/GameJam2020Repo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
